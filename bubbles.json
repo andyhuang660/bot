@@ -1,0 +1,210 @@
+[
+  {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/html.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "HTML",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "text",
+          "text": "HTML 是基礎網頁技術，網頁瀏覽器可以讀取 HTML 檔案，成為視覺化網頁。"
+        }
+      ]
+    }
+  },
+  {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/css.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "CSS",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "text",
+          "text": "CSS 網頁樣式表，可彈性自定變化網頁元素顯示樣貌，節省工作時間。"
+        }
+      ]
+    }
+  },
+  {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/js.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "JavaScript",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "text",
+          "text": "JavaScript 是最流行的腳本語言，能在靜態頁面上添加一些動態效果。"
+        }
+      ]
+    }
+  },
+  {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/jq.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "jQuery",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "text",
+          "text": "以 JS 為基礎的函式庫，號稱能讓開發者能寫的少，做的多！"
+        }
+      ]
+    }
+  },
+  {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/bs.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Boostrap",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "text",
+          "text": "熱門的前端框架工具，用於設計響應式網站、排版、格式和介面。"
+        }
+      ]
+    }
+  },
+  {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/ps.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Photoshop",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "text",
+          "text": "學習影像處理的主流軟體，用於規劃網頁版面或編修圖片應用。"
+        }
+      ]
+    }
+  },
+  {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/ai.jpg\t",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Illustrator ",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "text",
+          "text": "熟悉貝茲曲線運用，不失真的向量圖形格式，廣泛的應用在網頁等設計。"
+        }
+      ]
+    }
+  },
+  {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://wdaweb.github.io/index_assets/img/git.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Git",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "text",
+          "text": "Git 為分散式版本控制系統，可以把檔案的狀態作為更新歷史記錄保存起來。"
+        }
+      ]
+    }
+  }
+]
